@@ -1,1 +1,3 @@
-# Eric-Geisler.github.io
+# Eric Geisler
+
+# Education
