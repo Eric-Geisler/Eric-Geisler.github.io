@@ -69,11 +69,19 @@
 **Visualization**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
 
 **Cloud & Tools**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
 ![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)  
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-1a73e8?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+ 
 
 ---
 
