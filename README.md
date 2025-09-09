@@ -54,7 +54,7 @@
 - **Predicting Wrongful Convictions** — *Python, Scikit-learn, Pandas*  
   - Explored U.S. wrongful conviction datasets to model sentence length and time spent in prison  
   - Combined demographic and contributing factors (e.g., misconduct, false confessions) to predict case outcomes  
-  - [🔗 View Project]([https://github.com/your-username/wrongful-convictions](https://github.com/Eric-Geisler/Predicting-Wrongful-Convictions-Project))  
+  - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Wrongful-Convictions-Project)  
 
 ---
 
