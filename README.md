@@ -23,7 +23,7 @@
 ## 💼 Experience  
 
 **Cleveland Clinic** – Cleveland, OH  
-*Software & Data Migration Intern* — *Jan 2025 – Apr 2025*  
+*Data Science Intern* — *Jan 2025 – Apr 2025*  
 - Migrated data workflows and models from **SAS → Python & R**  
 - Ensured seamless functionality during the migration  
 
