@@ -22,19 +22,22 @@
 
 ## 📂 Projects  
 
-- **The Relationship of Serving and Win Probability in Women’s Volleyball** — *SPSS, R, Tableau*  
+- **The Relationship of Serving and Win Probability in Women’s Volleyball** — *SPSS, R, Tableau*
+  
   - Analyzed ~3,000 collegiate matches to study how serving impacts win probability  
   - Built regression models to uncover actionable insights for coaching strategy  
   - Found aggressive serving (even with errors) linked to higher win rates  
   - [🔗 View Project](https://github.com/Eric-Geisler/Serving-and-Serve-Receiving-Volleyball-Project)
  
-- **Predicting Crime Rate in Cleveland Census Tracts** — *Python, TensorFlow/Keras, scikit-learn, Pandas, Seaborn, Tableau*  
+- **Predicting Crime Rate in Cleveland Census Tracts** — *Python, TensorFlow/Keras, scikit-learn, Pandas, Seaborn, Tableau*
+  
   - Examined how different types of community investment affect crime rates across Cleveland neighborhoods  
   - Built an LSTM neural network on 700k+ crime records & permit data to predict social and economic impacts  
   - Achieved 17% overall improvement from baseline; education and housing investments correlated with reduced crime  
   - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Crime-in-Cleveland-Project)
   
-- **Predicting Wrongful Convictions** — *Python, TensorFlow/Keras, scikit-learn, Pandas, Matplotlib*  
+- **Predicting Wrongful Convictions** — *Python, TensorFlow/Keras, scikit-learn, Pandas, Matplotlib*
+  
   - Modeled U.S. wrongful conviction data to predict sentence length and time spent in prison  
   - Combined demographic and contributing factors (e.g., misconduct, false confessions) to predict case outcomes  
   - Achieved 33% improvement in model performance over baseline  
