@@ -37,11 +37,6 @@
 - Conducted **regression & correlation analyses** with **R and SPSS**  
 - Delivered data-driven insights to coaching staff that influenced team strategy 
 
-**John Carroll University** – University Heights, OH  
-*Data Science Peer Learning Facilitator* — *Jan 2023 – May 2025*  
-- Tutored peers in **Python, R, SQL, SPSS, and Excel**  
-- Facilitated deeper understanding of data science related concepts  
-
 ---
 
 ## 📂 Projects  
