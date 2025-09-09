@@ -38,19 +38,23 @@
 - Delivered data-driven insights to coaching staff that influenced team strategy 
 
 ---
-
+ 
 ## 📂 Projects  
 
-👉 (*Fill these in with your own projects!*)  
+- **The Relationship of Serving and Win Probability in Women’s Volleyball** — *R, Regression Analysis*  
+  - Analyzed play-by-play data from John Carroll University Women’s Volleyball to quantify how serving strategy impacts win probability  
+  - Built regression models to uncover actionable insights for improving game performance  
+  - [🔗 View Project](https://github.com/Eric-Geisler/Serving-and-Serve-Receiving-Volleyball-Project)
+ 
+- **Predicting Crime Rate in Cleveland Census Tracts** — *Python, GCP, Tableau*  
+  - Examined how different types of community investment affect crime rates across Cleveland neighborhoods  
+  - Built predictive models and visualizations to highlight social and economic impacts  
+  - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Crime-in-Cleveland-Project)  
 
-- **Customer Retention Analysis** — *Python, Tableau*  
-  - Built retention dashboards and models to track churn patterns  
-
-- **Sports Analytics Dashboard** — *R, Shiny, ggplot2*  
-  - Modeled performance data and created an interactive visualization tool  
-
-- **Cloud Data Pipeline** — *Python, GCP*  
-  - Automated ETL processes and optimized data storage for scalability  
+- **Predicting Wrongful Convictions** — *Python, Scikit-learn, Pandas*  
+  - Explored U.S. wrongful conviction datasets to model sentence length and time spent in prison  
+  - Combined demographic and contributing factors (e.g., misconduct, false confessions) to predict case outcomes  
+  - [🔗 View Project]([https://github.com/your-username/wrongful-convictions](https://github.com/Eric-Geisler/Predicting-Wrongful-Convictions-Project))  
 
 ---
 
