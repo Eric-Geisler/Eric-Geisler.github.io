@@ -38,23 +38,26 @@
 - Delivered data-driven insights to coaching staff that influenced team strategy 
 
 ---
- 
+
 ## 📂 Projects  
 
-- **The Relationship of Serving and Win Probability in Women’s Volleyball** — *R, Regression Analysis*  
-  - Analyzed play-by-play data from John Carroll University Women’s Volleyball to quantify how serving strategy impacts win probability  
-  - Built regression models to uncover actionable insights for improving game performance  
+- **The Relationship of Serving and Win Probability in Women’s Volleyball** — *SPSS, R, Tableau*  
+  - Analyzed ~3,000 collegiate matches to study how serving impacts win probability  
+  - Built regression models to uncover actionable insights for coaching strategy  
+  - Found aggressive serving (even with errors) linked to higher win rates  
   - [🔗 View Project](https://github.com/Eric-Geisler/Serving-and-Serve-Receiving-Volleyball-Project)
  
-- **Predicting Crime Rate in Cleveland Census Tracts** — *Python, GCP, Tableau*  
+- **Predicting Crime Rate in Cleveland Census Tracts** — *Python, TensorFlow/Keras, scikit-learn, Pandas, Seaborn, Tableau*  
   - Examined how different types of community investment affect crime rates across Cleveland neighborhoods  
-  - Built predictive models and visualizations to highlight social and economic impacts  
-  - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Crime-in-Cleveland-Project)  
-
-- **Predicting Wrongful Convictions** — *Python, Scikit-learn, Pandas*  
-  - Explored U.S. wrongful conviction datasets to model sentence length and time spent in prison  
+  - Built an LSTM neural network on 700k+ crime records & permit data to predict social and economic impacts  
+  - Achieved 17% overall improvement from baseline; education and housing investments correlated with reduced crime  
+  - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Crime-in-Cleveland-Project)
+  
+- **Predicting Wrongful Convictions** — *Python, TensorFlow/Keras, scikit-learn, Pandas, Matplotlib*  
+  - Modeled U.S. wrongful conviction data to predict sentence length and time spent in prison  
   - Combined demographic and contributing factors (e.g., misconduct, false confessions) to predict case outcomes  
-  - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Wrongful-Convictions-Project)  
+  - Achieved 33% improvement in model performance over baseline  
+  - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Wrongful-Convictions-Project)
 
 ---
 
