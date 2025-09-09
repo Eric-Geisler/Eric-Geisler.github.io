@@ -1,17 +1,18 @@
 # Eric Geisler
 
 📍 Buffalo, NY  
-📧 [ericgeisler11@gmail.com](mailto:ericgeisler11@gmail.com) | 📱 (716) 544-2356  
+📧 [ericgeisler11@gmail.com](mailto:ericgeisler11@gmail.com) | 📱 (716) 544-2356 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericgeisler/)
 
 ---
 
 ## 🎓 Education  
 
 **Georgia Institute of Technology** – Remote (Atlanta, GA)  
-🎓 *Master of Science in Analytics* — *Aug 2025 – Present*  
+*Master of Science in Analytics* — *Aug 2025 – Present*  
 
 **John Carroll University** – University Heights, OH  
-🎓 *Bachelor of Science in Data Science* — *Aug 2022 – May 2025*    
+*Bachelor of Science in Data Science* — *Aug 2022 – May 2025*    
 - Academic Achievement in Data Science Award  
 
 **Relevant Coursework:** Analytics Modeling, Advanced Data Science, Big Data Analytics, Applied Regression Analysis, Applied Statistics, Data Visualization with Tableau, Data-Driven Decision Making, Computing for Data Analysis, Database Systems
