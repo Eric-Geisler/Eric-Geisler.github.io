@@ -2,6 +2,7 @@
 
 📍 Buffalo, NY  
 📧 [ericgeisler11@gmail.com](mailto:ericgeisler11@gmail.com) | 📱 (716) 544-2356 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericgeisler/)
 
 ---
