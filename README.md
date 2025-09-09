@@ -20,25 +20,6 @@
 
 ---
 
-## 💼 Experience  
-
-**Cleveland Clinic** – Cleveland, OH  
-*Data Science Intern* — *Jan 2025 – Apr 2025*  
-- Migrated data workflows and models from **SAS → Python & R**  
-- Ensured seamless functionality during the migration  
-
-**Fashom** – Remote (Miami, FL)  
-*Data Analyst Intern* — *Jan 2025 – Apr 2025*  
-- Joined large datasets with **Python (Pandas, NumPy)**  
-- Visualized retention metrics with **Tableau & Python** to guide marketing  
-
-**John Carroll University Women’s Volleyball** – University Heights, OH  
-*Analytics Assistant* — *Sep 2024 – Dec 2024*  
-- Conducted **regression & correlation analyses** with **R and SPSS**  
-- Delivered data-driven insights to coaching staff that influenced team strategy 
-
----
-
 ## 📂 Projects  
 
 - **The Relationship of Serving and Win Probability in Women’s Volleyball** — *SPSS, R, Tableau*  
@@ -58,6 +39,27 @@
   - Combined demographic and contributing factors (e.g., misconduct, false confessions) to predict case outcomes  
   - Achieved 33% improvement in model performance over baseline  
   - [🔗 View Project](https://github.com/Eric-Geisler/Predicting-Wrongful-Convictions-Project)
+ 
+  **See profile for additonal projects**
+
+---
+
+## 💼 Experience  
+
+**Cleveland Clinic** – Cleveland, OH  
+*Data Science Intern* — *Jan 2025 – Apr 2025*  
+- Migrated data workflows and models from **SAS → Python & R**  
+- Ensured seamless functionality during the migration  
+
+**Fashom** – Remote (Miami, FL)  
+*Data Analyst Intern* — *Jan 2025 – Apr 2025*  
+- Joined large datasets with **Python (Pandas, NumPy)**  
+- Visualized retention metrics with **Tableau & Python** to guide marketing  
+
+**John Carroll University Women’s Volleyball** – University Heights, OH  
+*Analytics Assistant* — *Sep 2024 – Dec 2024*  
+- Conducted **regression & correlation analyses** with **R and SPSS**  
+- Delivered data-driven insights to coaching staff that influenced team strategy 
 
 ---
 
